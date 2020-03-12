@@ -12,7 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 import models.task;
 import utils.DBUtil;
 
-
 /**
  * Servlet implementation class DestroyServlet
  */
